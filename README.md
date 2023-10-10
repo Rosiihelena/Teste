@@ -1,177 +1,49 @@
-# Teste
-
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
-
-# Índice
-
-* [Projeto](#projeto-api)
-* [Micro Certificações](#micro-certificações)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros](#funcionalidades-e-registros)
-* [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do produto](#backlog-do-produto)
-* [Burndown](#burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
-
-# Projeto (API)
-Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
-
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 06/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 27/09/2023 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  18/10/2023| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Micro Certificações
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+
+# Sumário
+
+   * [Missão](#missão)
+   * [Visão](#visão)
+   * [Valores](#valores)
+   * [Tecnologias](#tecnologias)
+   * [Equioe](#aEquipe)
+  
+# Missão
+
+
+  
+# Visão
+
+
+  
+# Valores
+
+
+  
+# Entregas
+
+
+
+# Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- 
 
 
 # Equipe
-![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
 
-# Objetivo do Projeto
-
-Criar base de dados relacional e Dashboard que permita: (i)identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e (ii) desenhar a geografia do fluxo da carga para importação e exportação.
-
-Este projeto tem como objetivo apresentar uma solução interativa de informações com os modais mais utilizados de exportação e importação no estado de São Paulo. 
-
- 
-
-# Funcionalidades e registros
-
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
-## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
-
- ### Tecnológias Específicas/Apoio
-
-* 5W2H;
-* Jira Software:
-* Power BI:
-* GitHub.
- 
-  
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projeto. Onde estão todas as informações das tarefas: data, responsável, estágio e qual sprint pertence.
-
-#### Cronograma das Sprints[(clique aqui)](#backlog)
-
-# Backlog do produto
-  
 <div align="center">
-    
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
-![sprint backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto_sprint0.jpg?raw=true)
+
+Scrum Master | Product Owner |
+|:------------:|:---------------:|
+<img src="https://github.com/ExpandSolution/a/assets/135040407/94bddcfa-18e1-428e-bdb1-f2d34f597b47" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/bfdfe4e5-812f-47ae-ac72-0466edbcbb83" width=115>[<div>Gabriel Santana</div>](https://github.com/GabrielSTN5)</div></sub><br><a href="https://www.linkedin.com/in/gabriel-santana-027794215/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+
+Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+<img src="https://github.com/ExpandSolution/a/assets/135040407/16d00c3b-bf64-48c9-aba8-cb2210bc26d9" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/bd4be7bb-6506-489e-ac9c-739b8780786d" width=115>[<div>Diego Campos</div>](https://Diegocampos060686)</div></sub><br><a href="https://www.linkedin.com/in/diego-siqueira-56680926b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/3bc1f82c-aa3e-4541-91a6-90f1443c8819" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/ea3b3563-526d-478a-8cab-7023f1564523" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/a9a4ec39-592e-430a-8757-953c13db36e5" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+
 </div>
 
-Regras de Negócio
-- 
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
-User stories
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
-
-
-## Sprint 0. Concepção
-- [x] Estruturação do GitHub;
-- [ ] Documentação Sprint 0;
-- [x] Aprender GitHub;
-- [x] Pergunta P.O;
-- [x] Testar a estimativa de tempo;
-- [x] Aprender GitHub
-- [x] 5W2H;
-- [x] Estruturação das tasks no Jira Software;
-- [x] Power Point no GitHub;
-
-## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documentação Sprint 1;
-- [ ] Obter e trabalhar dados de importação e exportação de São Paulo;
-- [ ] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
-- [ ] Criação do storytelling básico para segunda tela;
-- [ ] Relação de Dados Primeira Tela;
-- [ ] Relação de Dados Segunda Tela;
-      
-## Sprint 2 . Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relação entre município e o estado de São Paulo;
-- [ ] Criação do storytelling básico para terceira tela;
-      
-## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
-- [ ] Detalhar Sobre uma carga de São José dos Campos;
-- [ ] Criação do storytelling básico para quarta tela;
-
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
